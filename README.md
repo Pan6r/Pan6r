@@ -1,4 +1,4 @@
-# Hi, I'm Thanh Hậu 👋
+<h1 align="center">Hello! I'm Hậu 👋</h1>
 
 ### Software Engineering Student | Backend Developer
 
@@ -52,7 +52,7 @@ I mainly work with **Java/Spring Boot**, **PostgreSQL**, **REST APIs**, and **Do
 
 ## 📌 Featured Projects
 
-### 🧭 InteliPath – AI Career Roadmap Platform
+### 🧭 InteliPath – AI-assisted Career Roadmap Platform
 
 A team-developed career guidance platform that helps students build personalized career roadmaps and track their development.
 
@@ -92,11 +92,24 @@ A Python-based service for scraping and processing job postings from recruitment
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Pan6r&show_icons=true&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Pan6r&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&custom_title=GitHub%20Activity"
+    height="180"
+  />
+</p>
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Pan6r&layout=compact&hide_border=true)
+<p align="center">
+  <b>Backend-focused developer working with</b><br><br>
+  ☕ Java &nbsp; • &nbsp;
+  🌱 Spring Boot &nbsp; • &nbsp;
+  🐘 PostgreSQL &nbsp; • &nbsp;
+  🐍 Python &nbsp; • &nbsp;
+  ⚡ FastAPI &nbsp; • &nbsp;
+  🐳 Docker
+</p>
 
 ---
 
