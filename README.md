@@ -94,9 +94,9 @@ A Python-based service for scraping and processing job postings from recruitment
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pan6r&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Pan6r&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pan6r&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Pan6r&layout=compact&hide_border=true)
 
 ---
 
